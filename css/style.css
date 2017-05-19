@@ -8,8 +8,8 @@ nav, h1, .order-button {
 
 header {
     background: url("../images/header-bg.png") center 0 no-repeat;
-    color: #fff;
     background-size: cover;
+    color: white;
     padding-bottom: 60px;
 }
 
@@ -19,7 +19,7 @@ h1{
 
 .call-to-action {
     text-align: center;
-    padding-top: 40px;
+    padding-top: 200px;
 }
 
 li {
@@ -205,7 +205,7 @@ input {
 
 .tell-me{
     text-align: left;
-    width: 300px;
+    padding-right: 5%;
 }
 
 .location-icon {
